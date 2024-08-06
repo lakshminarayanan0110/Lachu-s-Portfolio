@@ -1,0 +1,27 @@
+<h1>Movie Ranking Project</h1>
+<h2>The Best movies according to Lachu</h2>
+<h3>My Top 3 Movies of all time</h3>
+<hr>
+<ol>
+    <h4><li>Asuran</li></h4>
+    <img src = "asuran.jpg"/>
+    <ul>
+        <li>A family action drama which looks very realistic.</li>
+        <li>Music and hero's acting was very good</li>
+    </ul>
+    <hr>
+    <h4><li>Kadaisi Vivasayi</li></h4>
+    <img src = "last farmer.jpg"/>
+    <ul>
+        <li>A story of a aged farmer</li>
+        <li>it is a feel good movie</li>
+    </ul>
+    <hr>
+    <h4><li>Kaththi</li></h4>
+    <img src="kaththi.jpg"/>
+    <ul>
+        <li>It is good action drama movie</li>
+        <li>The actor in the movie is my favourite hero</li>
+        </ul>
+        </ol>
+
